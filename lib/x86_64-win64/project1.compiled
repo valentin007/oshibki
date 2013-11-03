@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\2.4.2\bin\x86_64-win64\fpc.exe" Date="1047352225"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gl -WG -vewnhi -l -FiD:\4_TPSPP\4_TPSPP\lib\x86_64-win64 -FuC:\lazarus\components\tachart\lib\x86_64-win64\win32 -FuC:\lazarus\ideintf\units\x86_64-win64 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\packager\units\x86_64-win64 -FuD:\4_TPSPP\4_TPSPP\ -Fu. -FUD:\4_TPSPP\4_TPSPP\lib\x86_64-win64\ -oproject1.exe -dLCL -dLCLwin32 project1.lpr"/>
+</CONFIG>
